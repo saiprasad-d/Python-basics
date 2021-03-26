@@ -1,0 +1,8 @@
+#To take input of sentence in order to convert it into upper or lower case
+line=input('Enter the sentence:')
+
+#To convert input sentence in upper case
+print(line.upper())
+
+#To convert input sentence in lower case
+print(line.lower())
